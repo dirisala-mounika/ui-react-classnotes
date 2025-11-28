@@ -1,0 +1,24 @@
+{
+  "name": "bankingapp",
+  "version": "1.1.0",
+  "description": "This is an app for banking applicaiton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "banking",
+    "project",
+    "app",
+    "development"
+  ],
+  "author": "Durgaprasad",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "multer": "^2.0.2"
+  }
+}
